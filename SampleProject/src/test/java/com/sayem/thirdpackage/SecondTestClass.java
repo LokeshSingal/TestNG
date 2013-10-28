@@ -1,4 +1,4 @@
-package test.thirdpackage;
+package com.sayem.thirdpackage;
 
 import org.testng.annotations.Test;
 
