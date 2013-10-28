@@ -1,8 +1,8 @@
-package com.sayem.thirdpackage;
+package test.thirdpackage;
 
 import org.testng.annotations.Test;
 
-public class FirstTestClass {
+public class SecondTestClass {
 	@Test
 	public void firstTest(){
 		System.out.println("First test method");
@@ -12,5 +12,6 @@ public class FirstTestClass {
 	public void secondTest(){
 		System.out.println("Second test method");
 	}
+
 
 }
