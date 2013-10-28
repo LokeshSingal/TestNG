@@ -1,4 +1,4 @@
-package test.firstpackage;
+package com.sayem.firstpackage;
 
 import org.testng.annotations.Test;
 
