@@ -1,7 +1,0 @@
-<suite name="Different class test Suite" verbose="1">
-	<test name="Different class Test">
-		<classes>
-			<class name="test.dataprovider.TestClass" />
-		</classes>
-	</test>
-</suite>
