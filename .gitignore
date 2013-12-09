@@ -13,10 +13,10 @@ Xls_Reader.java
 *.ear
  
 ### IntelliJ ###
-*.iml
+# *.iml
 *.ipr
 *.iws
-#.idea/
+# .idea/
  
 ### Eclipse ###
 *.pydevproject
