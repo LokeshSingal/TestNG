@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61bf334b-7939-4648-92ff-0fda57ffab3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Important.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/testng/EmpBusinessLogic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/testng/EmployeeDetails.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TestNG.iws" />
@@ -10,6 +11,8 @@
     <file path="/Dummy.txt" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386611964516" ignored="false" />
     <file path="/TestNGSimpleTest.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386611363854" ignored="false" />
     <file path="/testng.xml" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386611457878" ignored="false" />
+    <file path="/EmployeeDetails.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386616751646" ignored="false" />
+    <file path="/EmpBusinessLogic.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386616949064" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,10 +84,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Important.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Important.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Important.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="17" selection-start="154" selection-end="154" vertical-scroll-proportion="0.43636364">
+            <state line="13" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -93,7 +96,25 @@
       <file leaf-file-name="testng.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="8" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+            <state line="9" column="53" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmployeeDetails.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/testng/EmployeeDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="10" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmpBusinessLogic.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/testng/EmpBusinessLogic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="18" selection-start="334" selection-end="334" vertical-scroll-proportion="0.5825243">
               <folding />
             </state>
           </provider>
@@ -121,14 +142,16 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/TestNGSimpleTest.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/important.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/testng/EmployeeDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/testng/EmpBusinessLogic.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="371" />
+    <option name="x" value="640" />
     <option name="y" value="22" />
-    <option name="width" value="914" />
-    <option name="height" value="721" />
+    <option name="width" value="640" />
+    <option name="height" value="722" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -219,6 +242,26 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sayem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testng" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -430,7 +473,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="371" y="22" width="914" height="721" extended-state="0" />
+    <frame x="640" y="22" width="640" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -448,7 +491,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30069125" sideWeight="0.65625" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34615386" sideWeight="0.65625" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34375" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -561,13 +604,6 @@
         <state line="29" column="19" selection-start="279" selection-end="279" vertical-scroll-proportion="0.03502627" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/TestNGSimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
@@ -579,7 +615,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Important.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="17" selection-start="154" selection-end="154" vertical-scroll-proportion="0.43636364">
+        <state line="13" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="53" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/testng/EmployeeDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="10" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/testng/EmpBusinessLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="334" selection-end="334" vertical-scroll-proportion="0.5825243">
           <folding />
         </state>
       </provider>
