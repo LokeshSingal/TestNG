@@ -4,7 +4,7 @@
 <suite name="Suite1" verbose="1" >
     <test name="test1">
         <classes>
-            <class name="com.sayem.testng.tutorials.TestNGSimpleTest"/>
+            <class name="com.sayem.testng.firstproject.FirstTest"/>
         </classes>
     </test>
 </suite>
