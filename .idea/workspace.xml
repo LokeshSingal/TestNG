@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61bf334b-7939-4648-92ff-0fda57ffab3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testng/firstproject/FirstTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testng/firstproject/testng.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/testng/EmpBusinessLogic.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/testng/tutorials/EmpBusinessLogic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/testng/EmployeeDetails.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/testng/tutorials/EmployeeDetails.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/sayem/testng/TestNGSimpleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testng/tutorials/TestNGSimpleTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testng/multitest/FirstTestClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testng/multitest/SecondTestClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testng/multitest/testng.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng/firstproject/testng.xml" afterPath="$PROJECT_DIR$/testng/firstproject/testng.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TestNG.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386645707546" ignored="false" />
+    <file path="/Dummy.txt" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386646580647" ignored="false" />
     <file path="/TestNGSimpleTest.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386611363854" ignored="false" />
-    <file path="/testng.xml" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386645906305" ignored="false" />
+    <file path="/testng.xml" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386646547853" ignored="false" />
     <file path="/EmployeeDetails.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386616751646" ignored="false" />
     <file path="/EmpBusinessLogic.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386616949064" ignored="false" />
     <file path="/FirstTest.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386645862878" ignored="false" />
-    <file path="/fragment.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386646077812" ignored="false" />
+    <file path="/fragment.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386646580647" ignored="false" />
+    <file path="/FIrstTestClass.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386646296568" ignored="false" />
+    <file path="/SecondTestClass.java" changelist="61bf334b-7939-4648-92ff-0fda57ffab3c" time="1386646337659" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,44 @@
     <favorites_list name="TestNG" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="FirstTestClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/multitest/FirstTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="13" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecondTestClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/multitest/SecondTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testng/multitest/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="12" selection-start="429" selection-end="429" vertical-scroll-proportion="0.58317757">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng/firstproject/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -107,6 +143,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/firstproject/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/tutorials/TestNGSimpleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/testng/tutorials/EmployeeDetails.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/multitest/FIrstTestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/multitest/SecondTestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/multitest/FirstTestClass.java" />
+        <option value="$PROJECT_DIR$/testng/multitest/testng.xml" />
+        <option value="$PROJECT_DIR$/testng/firstproject/testng.xml" />
       </list>
     </option>
   </component>
@@ -174,6 +215,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="multitest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testng" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="firstproject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -209,6 +268,44 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="testng" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sayem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testng" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multitest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,42 +378,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/firstproject/testng.xml">
-    <configuration default="false" name="TestNGSimpleTest" type="TestNG" factoryName="TestNG" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.sayem.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TestNG" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.sayem.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.sayem.testng.tutorials.TestNGSimpleTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/multitest/testng.xml">
     <configuration default="false" name="$PROJECT_DIR$/testng.xml" type="TestNG" factoryName="TestNG" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TestNG" />
@@ -442,6 +504,36 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="$PROJECT_DIR$/testng/multitest/testng.xml" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="TestNG" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/multitest/testng.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -528,19 +620,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.TestNGSimpleTest" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.FirstTest" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/testng.xml" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/firstproject/testng.xml" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.FirstTest" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/testng.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/firstproject/testng.xml" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/multitest/testng.xml" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/firstproject/testng.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/firstproject/testng.xml" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/testng.xml" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/testng.xml" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/testng.xml" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/multitest/testng.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/multitest/testng.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/multitest/testng.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/firstproject/testng.xml" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG./Users/ssayem/IdeaProjects/TestNG/testng/firstproject/testng.xml" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
@@ -562,7 +654,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="23" width="1312" height="977" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -581,8 +673,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27409163" sideWeight="0.67094517" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3430572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27409163" sideWeight="0.65694284" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3430572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -654,13 +746,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/important.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="53" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
@@ -718,13 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng/firstproject/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
@@ -742,6 +820,34 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/testng/tutorials/EmployeeDetails.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="13" selection-start="50" selection-end="50" vertical-scroll-proportion="0.057901084">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/multitest/SecondTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/multitest/FirstTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng/firstproject/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng/multitest/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="12" selection-start="429" selection-end="429" vertical-scroll-proportion="0.58317757">
           <folding />
         </state>
       </provider>
