@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61bf334b-7939-4648-92ff-0fda57ffab3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/firstpackage/SecondTestClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/secondpackage/FirstTestClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/thirdpackage/FirstTestClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/secondpackage/SecondTestClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/thirdpackage/SecondTestClass.java" />
     </list>
     <ignored path="TestNG.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,10 +87,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecondTestClass.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SecondTestClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/firstpackage/SecondTestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="28" selection-start="67" selection-end="82" vertical-scroll-proportion="0.08971962">
+            <state line="2" column="28" selection-start="67" selection-end="82" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstTestClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/secondpackage/FirstTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecondTestClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/secondpackage/SecondTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstTestClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/thirdpackage/FirstTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecondTestClass.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/thirdpackage/SecondTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.046875">
               <folding />
             </state>
           </provider>
@@ -111,10 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/TestNGSimpleTest.java" />
-        <option value="$PROJECT_DIR$/important.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/testng/EmployeeDetails.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/testng/EmpBusinessLogic.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/firstproject/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/firstproject/testng.xml" />
@@ -127,6 +162,10 @@
         <option value="$PROJECT_DIR$/testng/firstproject/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/firstpackage/FirstTestClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/firstpackage/SecondTestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/secondpackage/FirstTestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/secondpackage/SecondTestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/thirdpackage/FirstTestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/thirdpackage/SecondTestClass.java" />
       </list>
     </option>
   </component>
@@ -263,6 +302,52 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sampleproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thirdpackage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sayem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testng" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sampleproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secondpackage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -745,28 +830,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="19" selection-start="279" selection-end="279" vertical-scroll-proportion="0.03502627" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/important.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.37545127">
@@ -846,7 +909,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/firstpackage/SecondTestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="28" selection-start="67" selection-end="82" vertical-scroll-proportion="0.08971962">
+        <state line="2" column="28" selection-start="67" selection-end="82" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/secondpackage/FirstTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/secondpackage/SecondTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/thirdpackage/FirstTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testng/sampleproject/thirdpackage/SecondTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.046875">
           <folding />
         </state>
       </provider>
