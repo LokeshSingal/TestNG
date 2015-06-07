@@ -4,7 +4,7 @@
 <suite name="DP test suite" parallel="tests" thread-count="5">
     <test name="DP - 1">
         <classes>
-            <class name="org.sayem.testng.AppTest">
+            <class name="org.sayem.testng.dataprovider.DataProviderExample">
                 <methods>
                     <include name="getFirstSampleData"/>
                 </methods>
