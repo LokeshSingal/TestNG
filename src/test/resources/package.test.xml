@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Class Suite" verbose="1">
+
+    <!--Class test from first.packages, second.packages and third.packages-->
+    <test name="Test">
+        <classes>
+            <class name="org.sayem.testng.packages.test.first.packages.FirstTestClass" />
+            <class name="org.sayem.testng.packages.test.second.packages.FirstTestClass" />
+            <class name="org.sayem.testng.packages.test.third.packages.FirstTestClass" />
+        </classes>
+    </test>
+
+
+    <!--Combine test [packages, classes, method]-->
+    <test name="Combine Test">
+        <packages>
+            <package name="org.sayem.testng.test.annotation.first.packages" />
+        </packages>
+        <classes>
+            <class name="org.sayem.testng.packages.test.second.packages.FirstTestClass"/>
+            <class name="org.sayem.testng.packages.test.third.packages.FirstTestClass">
+                <methods>
+                    <include name="firstTest" />
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+
+    <!--Exclude firstTest from first.packages.FirstTestClass -->
+    <test name="Exclude Method Test">
+        <classes>
+            <class name="org.sayem.testng.packages.test.first.packages.FirstTestClass">
+                <methods>
+                    <exclude name="firstTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+    <!--Include second.packages-->
+    <test name="Include Package Test">
+        <packages>
+            <package name="org.sayem.testng.test.annotation.*">
+                <include name="org.sayem.testng.test.annotation.second.packages"/>
+            </package>
+        </packages>
+    </test>
+
+
+    <!--Exclude second.packages-->
+    <test name="Exclude Package Test">
+        <packages>
+            <package name="org.sayem.testng.test.annotation.*">
+                <exclude name=".*second.packages"/>
+            </package>
+        </packages>
+    </test>
+
+    <!--Method test-->
+    <test name="Method Test">
+        <classes>
+            <class name="org.sayem.testng.packages.test.first.packages.FirstTestClass">
+                <methods>
+                    <include name="firstTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+    <!--multiple packaging test-->
+    <test name="Package Test">
+        <packages>
+            <package name="org.sayem.testng.test.annotation.first.packages"/>
+            <package name="org.sayem.testng.test.annotation.second.packages"/>
+        </packages>
+    </test>
+
+</suite>

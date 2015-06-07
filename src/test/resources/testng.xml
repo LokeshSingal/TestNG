@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="DP test suite" parallel="tests" thread-count="5">
-    <test name="DP - 1">
+<suite name="First Suite" verbose="1">
+
+    <test name="First Test">
         <classes>
-            <class name="org.sayem.testng.dataprovider.DataProviderExample">
-                <methods>
-                    <include name="getFirstSampleData"/>
-                </methods>
-            </class>
+            <class name="org.sayem.testng.packages.test.FirstTest"/>
         </classes>
     </test>
+
 </suite>
