@@ -1,0 +1,11 @@
+<suite name="Simple Reporter Suite">
+	<listeners>
+		<listener class-name="org.sayem.testng.chapter9.CustomListener.reporter.CustomReporter" />
+	</listeners>
+
+	<test name="Simple Reporter test">
+		<classes>
+			<class name="org.sayem.testng.chapter9.CustomListener.sample.SampleTest" />
+		</classes>
+	</test>
+</suite>

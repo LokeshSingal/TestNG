@@ -1,0 +1,13 @@
+<suite name="Regular Exp. Group Suite" verbose="1">
+	<test name="Regular Exp. Test">
+		<groups>
+			<run>
+				<include name="test.*" />
+				<exclude name=".*exclude" />
+			</run>
+		</groups>
+		<classes>
+			<class name="org.sayem.testng.chapter4.GroupsProject.RegularExpressionGroup" />
+		</classes>
+	</test>
+</suite>

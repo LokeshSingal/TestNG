@@ -1,0 +1,11 @@
+<suite name="Simple Logger Suite">
+	<listeners>
+		<listener class-name="org.sayem.testng.chapter9.CustomListener.logger.CustomLogging" />
+	</listeners>
+
+	<test name="Simple Logger test">
+		<classes>
+			<class name="org.sayem.testng.chapter9.CustomListener.sample.SampleTest" />
+		</classes>
+	</test>
+</suite>
