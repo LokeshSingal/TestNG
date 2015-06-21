@@ -10,7 +10,7 @@
 		</groups>
 
 		<classes>
-			<class name="org.sayem.testng.chapter5.DependencyProject.xml.RegularExpressionXmlTest" />
+			<class name="org.sayem.testng.chapter5.dependency.xml.RegularExpressionXmlTest" />
 		</classes>
 	</test>
 </suite>	

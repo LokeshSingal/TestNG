@@ -5,7 +5,7 @@
 
     <test name="First Test">
         <classes>
-            <class name="org.sayem.testng.packages.test.FirstTest"/>
+            <class name="org.sayem.testng.chapter1.FirstTest"/>
         </classes>
     </test>
 

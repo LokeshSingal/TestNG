@@ -1,7 +1,7 @@
 <suite name="Inheritance Suite" verbose="1" >
     <test name="Inheritance Test" >
         <classes>
-            <class name="org.sayem.testng.chapter3.BeforeAfterExtend.TestClass" />
+            <class name="org.sayem.testng.chapter3.beforeafterextend.TestClass" />
         </classes>
     </test>
 </suite>

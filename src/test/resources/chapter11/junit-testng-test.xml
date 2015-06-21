@@ -1,12 +1,12 @@
 <suite name="Junit Testng Suite">
 	<test junit="true" name="Junit test">
 		<classes>
-			<class name="org.sayem.testng.chapter11.JunitProject.junit.JunitSampleTest" />
+			<class name="org.sayem.testng.chapter11.junit.junit.JunitSampleTest" />
 		</classes>
 	</test>
 	<test name="Testng test">
 		<classes>
-			<class name="org.sayem.testng.chapter11.JunitProject.testng.TestngSampleTest" />
+			<class name="org.sayem.testng.chapter11.junit.testng.TestngSampleTest" />
 		</classes>
 	</test>
 </suite>

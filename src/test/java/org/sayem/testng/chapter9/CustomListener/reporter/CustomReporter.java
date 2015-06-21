@@ -1,4 +1,4 @@
-package org.sayem.testng.chapter9.CustomListener.reporter;
+package org.sayem.testng.chapter9.customlistener.reporter;
 
 import org.testng.IReporter;
 import org.testng.ISuite;

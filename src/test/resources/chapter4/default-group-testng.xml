@@ -6,7 +6,7 @@
 			</run>
 		</groups>
 		<classes>
-			<class name="org.sayem.testng.chapter4.GroupsProject.DefaultGroup" />
+			<class name="org.sayem.testng.chapter4.groups.DefaultGroup" />
 		</classes>
 	</test>
 	<test name="Default Group Test two">
@@ -16,7 +16,7 @@
 			</run>
 		</groups>
 		<classes>
-			<class name="org.sayem.testng.chapter4.GroupsProject.DefaultGroup" />
+			<class name="org.sayem.testng.chapter4.groups.DefaultGroup" />
 		</classes>
 	</test>
 </suite>

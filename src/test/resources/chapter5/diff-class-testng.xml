@@ -1,7 +1,7 @@
 <suite name="Different class dependency Suite" verbose="1">
 	<test name="Different class dependency Test">
 		<packages>
-			<package name="org.sayem.testng.chapter5.DependencyProject.groups" />
+			<package name="org.sayem.testng.chapter5.dependency.groups" />
 		</packages>
 	</test>
 </suite>

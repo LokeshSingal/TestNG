@@ -1,4 +1,4 @@
-package org.sayem.testng.chapter9.CustomListener.logger;
+package org.sayem.testng.chapter9.customlistener.logger;
 
 import org.testng.ITestContext;
 import org.testng.ITestListener;

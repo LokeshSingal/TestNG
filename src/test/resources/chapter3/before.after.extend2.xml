@@ -1,7 +1,7 @@
 <suite name="First Suite" verbose="1" >
     <test name="First Test" >
         <classes>
-            <class name="org.sayem.testng.chapter3.BeforeAfterExtend.TestClass" >
+            <class name="org.sayem.testng.chapter3.beforeafterextend.TestClass" >
                 <methods>
                     <include name="testOneMethod"/>
                 </methods>
@@ -10,7 +10,7 @@
     </test>
     <test name="Second Test" >
         <classes>
-            <class name="org.sayem.testng.chapter3.BeforeAfterExtend.TestClass" >
+            <class name="org.sayem.testng.chapter3.beforeafterextend.TestClass" >
                 <methods>
                     <include name="testTwoMethod"/>
                 </methods>

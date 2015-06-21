@@ -1,4 +1,4 @@
-package org.sayem.testng.chapter9.CustomListener.sample;
+package org.sayem.testng.chapter9.customlistener.sample;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

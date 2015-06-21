@@ -1,7 +1,7 @@
 <suite name="DataProvider test Suite" verbose="1">
 	<test name="DataProvider Test">
 		<classes>
-			<class name="org.sayem.testng.chapter3.DataProviderProject.SameClassDataProvider" />
+			<class name="org.sayem.testng.chapter3.dataprovider.SameClassDataProvider" />
 		</classes>
 	</test>
 </suite>

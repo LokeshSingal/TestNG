@@ -1,4 +1,4 @@
-package org.sayem.testng.chapter3.BeforeAfterExtend;
+package org.sayem.testng.chapter3.beforeafterextend;
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;

@@ -7,7 +7,7 @@
 			</run>
 		</groups>
 		<classes>
-			<class name="org.sayem.testng.chapter4.GroupsProject.ExcludeGroup" />
+			<class name="org.sayem.testng.chapter4.groups.ExcludeGroup" />
 		</classes>
 	</test>
 </suite>

@@ -6,7 +6,7 @@
 			</run>
 		</groups>
 		<classes>
-			<class name="org.sayem.testng.chapter4.GroupsProject.MultiGroup" />
+			<class name="org.sayem.testng.chapter4.groups.MultiGroup" />
 		</classes>
 	</test>
 	<test name="Group Test two">
@@ -16,7 +16,7 @@
 			</run>
 		</groups>
 		<classes>
-			<class name="org.sayem.testng.chapter4.GroupsProject.MultiGroup" />
+			<class name="org.sayem.testng.chapter4.groups.MultiGroup" />
 		</classes>
 	</test>
 </suite>

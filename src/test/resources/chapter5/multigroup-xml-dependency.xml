@@ -10,7 +10,7 @@
 		</groups>
 
 		<classes>
-			<class name="org.sayem.testng.chapter5.DependencyProject.xml.MultiGrpXmlDependency" />
+			<class name="org.sayem.testng.chapter5.dependency.xml.MultiGrpXmlDependency" />
 		</classes>
 	</test>
 </suite>	

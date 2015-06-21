@@ -15,7 +15,7 @@
 			</run>
 		</groups>
 		<classes>
-			<class name="org.sayem.testng.chapter4.GroupsProject.RegularExpressionGroup" />
+			<class name="org.sayem.testng.chapter4.groups.RegularExpressionGroup" />
 		</classes>
 	</test>
 </suite>

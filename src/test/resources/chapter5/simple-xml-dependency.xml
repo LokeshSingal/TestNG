@@ -10,7 +10,7 @@
 		</groups>
 
 		<classes>
-			<class name="org.sayem.testng.chapter5.DependencyProject.xml.SimpleXmlDependency" />
+			<class name="org.sayem.testng.chapter5.dependency.xml.SimpleXmlDependency" />
 		</classes>
 	</test>
 </suite>	
