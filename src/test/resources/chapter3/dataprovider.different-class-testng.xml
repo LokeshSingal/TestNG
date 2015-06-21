@@ -1,0 +1,7 @@
+<suite name="Different class test Suite" verbose="1">
+	<test name="Different class Test">
+		<classes>
+			<class name="org.sayem.testng.chapter3.DataProviderProject.TestClass" />
+		</classes>
+	</test>
+</suite>

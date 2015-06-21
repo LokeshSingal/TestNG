@@ -1,0 +1,9 @@
+<suite name="Include Package Suite" verbose="1">
+	<test name="Include Package Test">
+		<packages>
+			<package name="org.sayem.testng.chapter2.sampleproject.*">
+				<include name="test.secondpackage" />
+			</package>
+		</packages>
+	</test>
+</suite>

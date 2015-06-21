@@ -1,0 +1,11 @@
+<suite name="Exclude Method Suite" verbose="1">
+	<test name="Exclude Method Test">
+		<classes>
+			<class name="org.sayem.testng.chapter2.sampleproject.firstpackage.FirstTestClass">
+				<methods>
+					<exclude name="firstTest" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
