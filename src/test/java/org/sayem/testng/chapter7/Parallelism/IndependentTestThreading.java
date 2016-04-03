@@ -1,4 +1,4 @@
-package org.sayem.testng.chapter7.parallelism;
+package org.sayem.testng.chapter7.Parallelism;
 
 import org.testng.annotations.Test;
 
